@@ -1,0 +1,6 @@
+applications:
+    - name: zikloa
+      memory: 128M
+      instances: 1
+      env:
+        GOVERSION: go1.15
